@@ -1,0 +1,36 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos de configuración sensibles
+.env
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema y editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Salidas temporales
+*.tmp
+*.bak
+
+# Salidas de pruebas
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.egg-info/
+dist/
+build/
