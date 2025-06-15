@@ -1,0 +1,28 @@
+[
+    {
+      "question": "¿Quién fundó Microsoft?",
+      "documents": ["Microsoft fue fundada por Bill Gates y Paul Allen."],
+      "expected_answer": "Bill Gates y Paul Allen"
+    },
+    {
+      "question": "¿Cuál es la capital de Francia?",
+      "documents": ["París es la capital de Francia y una de las ciudades más importantes de Europa."],
+      "expected_answer": "París"
+    },
+    {
+      "question": "¿Cuándo comenzó la Segunda Guerra Mundial?",
+      "documents": ["La Segunda Guerra Mundial comenzó en septiembre de 1939 tras la invasión de Polonia."],
+      "expected_answer": "septiembre de 1939"
+    },
+    {
+      "question": "¿Qué es el ADN?",
+      "documents": ["El ADN es una molécula que contiene la información genética de los seres vivos."],
+      "expected_answer": "una molécula que contiene la información genética"
+    },
+    {
+      "question": "¿Qué lenguaje se usa para desarrollar aplicaciones en Android?",
+      "documents": ["El lenguaje principal utilizado para desarrollar aplicaciones Android es Kotlin, aunque también se utiliza Java."],
+      "expected_answer": "Kotlin"
+    }
+  ]
+  
