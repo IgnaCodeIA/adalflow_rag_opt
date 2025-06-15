@@ -1,0 +1,27 @@
+# Carpetas de entorno virtual
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+*.swp
+
+# Archivos sensibles
+.env
+*.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de git
+.git
+.gitignore
+
+
+# Carpeta de salida o artefactos
+dist/
+build/
